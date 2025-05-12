@@ -11,5 +11,5 @@ I'm a full-stack web developer focused on building efficient, responsive, and ac
 - 🎮 [Checkers game](https://github.com/HenryGarrafa/Project1_Checkers-game) – Python-based board game
 
 ## 📫 Contact
-- 📧 henry@example.com
+- 📧 garrafa.henry@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/henry-garrafa-741079348/)
