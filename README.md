@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Henry Garrafa
+I'm a full-stack web developer focused on building efficient, responsive, and accessible web applications.
 
-<!--
-**HenryGarrafa/HenryGarrafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Stack
+- 🌐 Frontend: HTML, CSS, JavaScript, Vue.js
+- 🔙 Backend: Node.js, Express, MongoDB
+- ⚙️ Tools: Git, GitHub, VS Code
 
-Here are some ideas to get you started:
+## 📂 Featured Projects
+- 🔁 [uffod-demo-henry](https://github.com/HenryGarrafa/uffod-demo-henry) – Vue.js demo app with state management
+- 🎮 [Checkers game](https://github.com/HenryGarrafa/Project1_Checkers-game) – Python-based board game
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- 📧 henry@example.com
+- 💼 [LinkedIn](https://linkedin.com/in/henry-garrafa-741079348/)
