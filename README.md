@@ -2,7 +2,7 @@
 I'm a full-stack web developer focused on building efficient, responsive, and accessible web applications.
 
 ## 🔧 Tech Stack
-- 🌐 Frontend: HTML, CSS, JavaScript, Vue.js
+- 🌐 Frontend: HTML, CSS, JavaScript, Vue.js, React
 - 🔙 Backend: Node.js, Express, MongoDB
 - ⚙️ Tools: Git, GitHub, VS Code
 
