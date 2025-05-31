@@ -13,4 +13,3 @@ I'm a full-stack web developer focused on building efficient, responsive, and ac
 
 ## 📫 Contact
 - 📧 henry-calixto.garrafa-ayquipa.1@ulaval.ca
-- 💼 [LinkedIn](https://linkedin.com/in/henry-garrafa-741079348/)
