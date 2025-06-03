@@ -7,7 +7,7 @@ I'm a full-stack web developer focused on building efficient, responsive, and ac
 - ⚙️ Tools: Git, GitHub, VS Code, Bootstrap
 
 ## 📂 Featured Projects
-
+- 🌦️ [weather-app-js](https://github.com/HenryGarrafa/weather-app-js) – Real-time weather dashboard using OpenWeatherMap API and Vanilla JS  
 - ❓ [quiz-app-js](https://github.com/HenryGarrafa/quiz-app-js) – Interactive JavaScript quiz with DOM manipulation, user feedback, and GitHub Pages demo  
 - 🛒 [shopping-cart-js](https://github.com/HenryGarrafa/shopping-cart-js) – Dynamic shopping cart built with HTML, Bootstrap, and JavaScript
 - 📰 [html-css-news-website](https://github.com/HenryGarrafa/html-css-news-website) – Responsive news site built with HTML and CSS
