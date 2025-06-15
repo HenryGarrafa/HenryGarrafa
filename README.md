@@ -10,7 +10,6 @@ I'm a data analyst and full-stack developer passionate about extracting insights
 
 ## 🌐 Web Development Stack
 - Frontend: HTML, CSS, JavaScript, Vue.js, React.js
-- Backend: Node.js, Express, MongoDB, Python, C++
 
 ## 📂 Featured Projects
 - 📦 [Power BI Inventory Dashboard](https://github.com/HenryGarrafa/logistic-application-powerBI) – Interactive dashboard for warehouse stock, inventory valuation, and sales analysis using DAX and Excel data
