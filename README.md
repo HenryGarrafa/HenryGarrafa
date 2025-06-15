@@ -13,6 +13,7 @@ I'm a data analyst and full-stack developer passionate about extracting insights
 - Backend: Node.js, Express, MongoDB, Python, C++
 
 ## 📂 Featured Projects
+- 📦 [Power BI Inventory Dashboard](https://github.com/HenryGarrafa/logistic-application-powerBI) – Interactive dashboard for warehouse stock, inventory valuation, and sales analysis using DAX and Excel data
 - 🧠 [Prediction of OCEAN Personality Traits](https://github.com/HenryGarrafa/trait-prediction-ocean) – Data science project using Reddit comments, sentiment/emotion analysis (Hugging Face), Random Forest regression, and feature engineering  
 - 🌦️ [weather-app-js](https://github.com/HenryGarrafa/weather-app-js) – Real-time weather dashboard using OpenWeatherMap API and Vanilla JS  
 - ❓ [quiz-app-js](https://github.com/HenryGarrafa/quiz-app-js) – Interactive JavaScript quiz with DOM manipulation  
