@@ -34,7 +34,7 @@ I combine experience in production & data management with modern web technologie
 ---
 
 ## 📫 Contact  
-- 📧 henry-calixto.garrafa-ayquipa.1@ulaval.ca  
+- 📧 garrafa.henry@gmail.com 
 - 🌐 [GitHub Portfolio](https://github.com/HenryGarrafa)  
 
 ---
