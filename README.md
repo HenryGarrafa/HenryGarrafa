@@ -22,6 +22,7 @@ I combine experience in production & data management with modern web technologie
 
 ## 📂 Featured Projects  
 
+- 🍽️ [**UFood – Restaurant Finder App (Vue.js)**](https://github.com/HenryGarrafa/UFood-Vue-App) – Web application to search, filter, and manage restaurants, with features like favorites, visits, user profiles, and map integration  
 - 🚌 [**Travel Reservation Demo (PHP + Oracle)**](https://github.com/HenryGarrafa/travel-reservation-demo-php) – University project simulating a reservation system, now adapted to run in demo mode with PHP  
 - 📊 [**Power BI Sales Dashboard**](https://github.com/HenryGarrafa/dashboard-sales-powerbi) – Interactive dashboard comparing regional sales metrics (YoY), including KPIs, slicers, and map visualizations  
 - 📦 [**Power BI Inventory Dashboard**](https://github.com/HenryGarrafa/logistic-application-powerBI) – Interactive dashboard for warehouse stock, inventory valuation, and sales analysis using DAX and Excel data  
